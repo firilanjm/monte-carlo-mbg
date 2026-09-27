@@ -1,10 +1,18 @@
 # Monte Carlo Simulation of Cash Waqf-Linked Sukuk (CWLS) for Sustainable MBG Funding
 
-## Overview
+> 📚 **Journal Publication:** This analysis was published in *Al-Muzara'ah: Journal of Islamic Economics*, Vol. 14, No. 2 (2026).
+>
+> **[Read the Published Article →](https://www.researchgate.net/publication/409456635_Financing_Indonesia's_Free_School_Meals_via_Cash_Waqf-Linked_Sukuk_A_Monte_Carlo_Simulation)**
 
-This project evaluates the sustainability of the MBG (Makanan Bergizi Gratis) Fund using Monte Carlo simulations. Unlike traditional linear projections in Excel, this approach quantifies the probability of successfully funding a portion of the MBG program over a 10-year horizon under uncertain market yields and inflation. The MBG program is a government-run initiative in Indonesia aimed at ensuring access to nutritious meals for school-aged children.
+## 📌 Overview
 
-The goal is to identify the “sweet spot” coverage — the maximum sustainable percentage of the MBG budget that can be funded with high confidence.
+This project evaluates the financial sustainability of using Cash Waqf-Linked Sukuk (CWLS) to support Indonesia's Makanan Bergizi Gratis (MBG) program.
+
+Unlike deterministic linear projections, the analysis uses **Monte Carlo simulation** to model uncertainty in sukuk yields and food inflation over a 10-year horizon. The simulation evaluates the probability that CWLS-generated investment returns can sustainably finance a portion of MBG operational costs while preserving the principal endowment.
+
+The analysis uses **10,000 Monte Carlo iterations** across a 10-year projection period. :contentReference[oaicite:1]{index=1}
+
+The primary objective is to identify a sustainable **coverage level**: the proportion of MBG operational needs that can be supported by CWLS financing under uncertain economic conditions.
 
 ---
 
